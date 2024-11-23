@@ -9,7 +9,7 @@
 --------------------- Astro Family -----------------------
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kSdgxAnrWv8+BgQixQL0EA", "kid":"vqLQ+J+z+6+h/J80uoc0pg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" group-title="FAMILY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/manifest.mpd
 
